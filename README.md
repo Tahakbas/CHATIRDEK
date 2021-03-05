@@ -1,0 +1,3 @@
+# CHATIRDEK
+Android Chat Application 
+
