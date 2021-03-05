@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547654109242",
+    "project_id": "newchatapp-bc30d",
+    "storage_bucket": "newchatapp-bc30d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547654109242:android:79f967f92d436ac1858d03",
+        "android_client_info": {
+          "package_name": "com.example.newchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547654109242-rg61pqoica332qh5lfp1nh4158avfct9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8j1FZ39S4sQBdeGxD8L81EZs9VJf3hbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547654109242-rg61pqoica332qh5lfp1nh4158avfct9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
